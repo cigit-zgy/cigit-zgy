@@ -4,22 +4,41 @@
 
 <p align="center">
   <a href="https://www.cigit-swr.com/tdcy/bsh/1614.html">CIGIT</a> ·
-  <a href="https://cigit-zgy.vercel.app/">Blog</a> ·
+  <a href="https://cigit-zgy.vercel.app/">Academic Blog</a> ·
   <a href="https://orcid.org/0009-0001-7406-5638">ORCID</a>
 </p>
 
+### About
+
+I work on **mechanistic modelling of biological wastewater treatment processes** and **scientific machine learning**, with an emphasis on interpretable dynamic models, hybrid mechanistic–data-driven methods, and reproducible scientific computing.
+
 ### Research
 
-I work on **mechanistic modelling of wastewater treatment processes**, with particular interests in activated sludge models, hybrid dynamical systems, scientific machine learning, and computational methods for biological process models.
+**01 · Mechanistic Process Modelling**  
+Activated sludge · anaerobic digestion · biological kinetics · dynamic simulation
 
-- **Mechanistic process modelling** — activated sludge, anaerobic digestion, biological kinetics and dynamic simulation
-- **Hybrid dynamical systems** — Hybrid ODE, Neural ODE and system identification
-- **Scientific machine learning** — interpretable learning for environmental process models
+**02 · Hybrid Dynamical Systems**  
+Hybrid ODE · Neural ODE · system identification · mechanistic–data-driven modelling
 
-### Selected work
+**03 · Scientific Machine Learning**  
+Interpretable learning · dynamic systems · environmental process modelling
 
-- [`water-modeling-notes`](https://github.com/cigit-zgy/water-modeling-notes) — academic notes on wastewater process modelling, scientific machine learning and computational methods
+### Current Focus
 
-### Research stack
+> Structured and agent-operable mechanistic models · Hybrid mechanistic–data-driven ODE models · Scientific computing for biological process models
+
+### Selected Research & Software
+
+**[`water-modeling-notes`](https://github.com/cigit-zgy/water-modeling-notes)**  
+Academic notes on wastewater process modelling, scientific machine learning, and computational methods.
+
+**[`sci-manuscript-skill`](https://github.com/cigit-zgy/sci-manuscript-skill)**  
+A reproducible Python workflow for LaTeX manuscript lifecycle engineering, revision management, response letters, and submission packaging.
+
+### Publications
+
+My publication record and persistent researcher identifier are available through **[ORCID 0009-0001-7406-5638](https://orcid.org/0009-0001-7406-5638)**.
+
+### Research Stack
 
 `Python` · `PyTorch` · `NumPy` · `SciPy` · `torchdyn`
