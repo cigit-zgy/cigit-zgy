@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Water modelling simulation console</title>
+  <desc id="desc">A terminal-inspired scientific computing panel showing a mechanistic wastewater model simulation and dynamic trajectories.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E1419"/>
+      <stop offset="1" stop-color="#111A22"/>
+    </linearGradient>
+    <clipPath id="plot"><rect x="700" y="118" width="410" height="215" rx="4"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1198" height="418" rx="14" fill="url(#panel)" stroke="#253340" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="48" rx="14" fill="#151D24"/>
+  <rect x="1" y="35" width="1198" height="14" fill="#151D24"/>
+  <circle cx="27" cy="25" r="6" fill="#FF5555"/><circle cx="49" cy="25" r="6" fill="#F1FA8C"/><circle cx="71" cy="25" r="6" fill="#50FA7B"/>
+  <text x="98" y="31" fill="#8BE9FD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">water-modeling / simulation</text>
+  <text x="1125" y="31" fill="#6272A4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">research console</text>
+
+  <text x="32" y="82" fill="#6272A4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">›</text>
+  <text x="52" y="82" fill="#8BE9FD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">python simulate.py --model ASM --solver ode --backend pytorch</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <text x="32" y="126" fill="#D7D4C8">model</text><text x="142" y="126" fill="#6272A4">:</text><text x="160" y="126" fill="#F8F8F2">biological process model</text>
+    <text x="32" y="152" fill="#D7D4C8">equation</text><text x="142" y="152" fill="#6272A4">:</text><text x="160" y="152" fill="#BD93F9">dX/dt = S · r(X, θ)</text>
+    <text x="32" y="178" fill="#D7D4C8">solver</text><text x="142" y="178" fill="#6272A4">:</text><text x="160" y="178" fill="#8BE9FD">ODE</text>
+    <text x="32" y="204" fill="#D7D4C8">backend</text><text x="142" y="204" fill="#6272A4">:</text><text x="160" y="204" fill="#8BE9FD">PyTorch</text>
+    <text x="32" y="230" fill="#D7D4C8">device</text><text x="142" y="230" fill="#6272A4">:</text><text x="160" y="230" fill="#8BE9FD">MPS</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+    <text x="32" y="278" fill="#D7D4C8">simulation</text>
+    <rect x="142" y="266" width="420" height="14" rx="3" fill="#253340"/>
+    <rect x="142" y="266" width="420" height="14" rx="3" fill="#BD93F9" opacity="0.88"/>
+    <text x="575" y="278" fill="#BD93F9">100%</text>
+    <text x="32" y="316" fill="#50FA7B">✓ mass balance</text><text x="196" y="316" fill="#6272A4">1.02e−06</text>
+    <text x="32" y="344" fill="#50FA7B">✓ integration</text><text x="196" y="344" fill="#F8F8F2">completed</text>
+    <text x="32" y="372" fill="#50FA7B">✓ model state</text><text x="196" y="372" fill="#F8F8F2">validated</text>
+  </g>
+
+  <text x="700" y="92" fill="#D7D4C8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">state trajectories</text>
+  <line x1="700" y1="333" x2="1110" y2="333" stroke="#6272A4" stroke-width="1"/>
+  <line x1="700" y1="118" x2="700" y2="333" stroke="#6272A4" stroke-width="1"/>
+  <g clip-path="url(#plot)" fill="none" stroke-width="3" stroke-linecap="round">
+    <path d="M700 132 C760 138 790 195 830 242 S940 307 1110 310" stroke="#BD93F9"/>
+    <path d="M700 318 C755 306 785 265 825 215 S930 142 1110 136" stroke="#8BE9FD"/>
+    <path d="M700 316 C770 295 815 250 865 222 S985 193 1110 201" stroke="#50FA7B"/>
+    <path d="M700 296 C750 258 785 246 835 259 S970 291 1110 286" stroke="#FFB86C"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6272A4">
+    <text x="694" y="354">0</text><text x="794" y="354">6</text><text x="892" y="354">12</text><text x="993" y="354">18</text><text x="1097" y="354">24 h</text>
+  </g>
+  <text x="700" y="390" fill="#6272A4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">mechanistic understanding × data × scientific computing</text>
+</svg>
