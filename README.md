@@ -23,6 +23,10 @@ Hybrid ODE · Neural ODE · System identification · Mechanistic–data-driven m
 **03 · Scientific AI for Modelling**  
 Agent-operable models · Interpretable learning · Scientific agents · Reproducible scientific computing
 
+<p align="center">
+  <img src="./assets/research-console.svg" alt="Scientific computing console for water process modelling" width="100%" />
+</p>
+
 ### Current Research
 
 > Structured representations for mechanistic models · Hybrid mechanistic–data-driven dynamical systems · AI-assisted scientific modelling workflows
@@ -39,13 +43,14 @@ A reproducible Python workflow for LaTeX manuscript lifecycle engineering, revis
 
 ---
 
-### Selected Publications
+### Selected Publications · First Author
 
-1. Zhao, G.-Y., Furumai, H., & Fujita, M. (2025). Parallel hybrid ordinary differential equation for modeling biological phosphorus removal modified for enhanced predictive performance and physical interpretability. *Journal of Environmental Management*, **380**, 124932. https://doi.org/10.1016/j.jenvman.2025.124932
+1. **Latest article · Bioresource Technology (2026).** [ScienceDirect record](https://www.sciencedirect.com/science/article/pii/S0960852426017475)  
+   *Newly published; bibliographic metadata will be normalized here once the DOI record is indexed across scholarly databases.*
 
-2. Zhao, G.-Y., Furumai, H., & Fujita, M. (2024). Supporting data–enhanced hybrid ordinary differential equation model for phosphate dynamics in municipal wastewater treatment. *Bioresource Technology*, **409**, 131217. https://doi.org/10.1016/j.biortech.2024.131217
+2. Zhao, G.-Y., Furumai, H., & Fujita, M. (2025). Parallel hybrid ordinary differential equation for modeling biological phosphorus removal modified for enhanced predictive performance and physical interpretability. *Journal of Environmental Management*, **380**, 124932. https://doi.org/10.1016/j.jenvman.2025.124932
 
-3. Zhao, G.-Y., Ohsu, K., Saputra, H. K., Okada, T., Suzuki, J., Kuwahara, Y., & Fujita, M. (2024). Enhancing interpretability of tree-based models for downstream salinity prediction: Decomposing feature importance using the Shapley additive explanation approach. *Results in Engineering*, **23**, 102373. https://doi.org/10.1016/j.rineng.2024.102373
+3. Zhao, G.-Y., Furumai, H., & Fujita, M. (2024). Supporting data–enhanced hybrid ordinary differential equation model for phosphate dynamics in municipal wastewater treatment. *Bioresource Technology*, **409**, 131217. https://doi.org/10.1016/j.biortech.2024.131217
 
 [Full publication record on ORCID](https://orcid.org/0009-0001-7406-5638)
 
@@ -58,3 +63,5 @@ Wastewater treatment modelling · Activated Sludge Models · Anaerobic digestion
 ### Computational Stack
 
 `Python` · `PyTorch` · `NumPy` · `SciPy` · `Pandas` · `Matplotlib` · `torchdyn`
+
+<p align="center"><sub><i>Mechanistic understanding · Data-informed dynamics · Reproducible scientific computing</i></sub></p>
