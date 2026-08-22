@@ -8,37 +8,53 @@
   <a href="https://orcid.org/0009-0001-7406-5638">ORCID</a>
 </p>
 
-### About
+I am an environmental process modeller working at the intersection of **mechanistic modelling**, **hybrid dynamical systems**, and **scientific AI**, with a focus on biological wastewater treatment and reproducible scientific computing.
 
-I work on **mechanistic modelling of biological wastewater treatment processes** and **scientific machine learning**, with an emphasis on interpretable dynamic models, hybrid mechanistic–data-driven methods, and reproducible scientific computing.
+---
 
-### Research
+### Research Areas
 
-**01 · Mechanistic Process Modelling**  
-Activated sludge · anaerobic digestion · biological kinetics · dynamic simulation
+**01 · Biological Process Modelling**  
+Activated sludge · Anaerobic digestion · Biochemical kinetics · Dynamic simulation
 
 **02 · Hybrid Dynamical Systems**  
-Hybrid ODE · Neural ODE · system identification · mechanistic–data-driven modelling
+Hybrid ODE · Neural ODE · System identification · Mechanistic–data-driven modelling
 
-**03 · Scientific Machine Learning**  
-Interpretable learning · dynamic systems · environmental process modelling
+**03 · Scientific AI for Modelling**  
+Agent-operable models · Interpretable learning · Scientific agents · Reproducible scientific computing
 
-### Current Focus
+### Current Research
 
-> Structured and agent-operable mechanistic models · Hybrid mechanistic–data-driven ODE models · Scientific computing for biological process models
+> Structured representations for mechanistic models · Hybrid mechanistic–data-driven dynamical systems · AI-assisted scientific modelling workflows
+
+---
 
 ### Selected Research & Software
 
 **[`water-modeling-notes`](https://github.com/cigit-zgy/water-modeling-notes)**  
-Academic notes on wastewater process modelling, scientific machine learning, and computational methods.
+Academic notes and computational resources for water-system modelling, scientific machine learning, and numerical methods.
 
 **[`sci-manuscript-skill`](https://github.com/cigit-zgy/sci-manuscript-skill)**  
 A reproducible Python workflow for LaTeX manuscript lifecycle engineering, revision management, response letters, and submission packaging.
 
-### Publications
+---
 
-My publication record and persistent researcher identifier are available through **[ORCID 0009-0001-7406-5638](https://orcid.org/0009-0001-7406-5638)**.
+### Selected Publications
 
-### Research Stack
+1. Zhao, G.-Y., Furumai, H., & Fujita, M. (2025). Parallel hybrid ordinary differential equation for modeling biological phosphorus removal modified for enhanced predictive performance and physical interpretability. *Journal of Environmental Management*, **380**, 124932. https://doi.org/10.1016/j.jenvman.2025.124932
 
-`Python` · `PyTorch` · `NumPy` · `SciPy` · `torchdyn`
+2. Zhao, G.-Y., Furumai, H., & Fujita, M. (2024). Supporting data–enhanced hybrid ordinary differential equation model for phosphate dynamics in municipal wastewater treatment. *Bioresource Technology*, **409**, 131217. https://doi.org/10.1016/j.biortech.2024.131217
+
+3. Zhao, G.-Y., Ohsu, K., Saputra, H. K., Okada, T., Suzuki, J., Kuwahara, Y., & Fujita, M. (2024). Enhancing interpretability of tree-based models for downstream salinity prediction: Decomposing feature importance using the Shapley additive explanation approach. *Results in Engineering*, **23**, 102373. https://doi.org/10.1016/j.rineng.2024.102373
+
+[Full publication record on ORCID](https://orcid.org/0009-0001-7406-5638)
+
+---
+
+### Research Interests
+
+Wastewater treatment modelling · Activated Sludge Models · Anaerobic digestion · Hybrid ODE · Neural ODE · Scientific machine learning · AI-assisted scientific modelling
+
+### Computational Stack
+
+`Python` · `PyTorch` · `NumPy` · `SciPy` · `Pandas` · `Matplotlib` · `torchdyn`
