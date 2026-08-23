@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.cigit-swr.com/tdcy/bsh/1614.html">CIGIT</a> ·
-  <a href="https://cigit-zgy.vercel.app/">Academic Blog</a> ·
+  <a href="https://cigit-zgy.vercel.app/">BLOG</a> ·
   <a href="https://orcid.org/0009-0001-7406-5638">ORCID</a>
 </p>
 
