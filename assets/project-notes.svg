@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-labelledby="title desc">
+  <title id="title">water-modeling-notes</title>
+  <desc id="desc">Academic notes and computational resources for water-system modelling.</desc>
+  <rect width="1200" height="72" rx="10" fill="#0E1419"/>
+  <rect x="1" y="1" width="1198" height="70" rx="9" fill="none" stroke="#253340" stroke-width="2"/>
+  <rect x="28" y="22" width="6" height="28" rx="3" fill="#50FA7B"/>
+  <text x="52" y="34" fill="#F8F8F2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">WATER-MODELING-NOTES</text>
+  <text x="52" y="54" fill="#6272A4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">WATER MODELLING · SCIENTIFIC ML · NUMERICAL METHODS</text>
+  <text x="1128" y="44" fill="#50FA7B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" text-anchor="end">OPEN NOTES</text>
+</svg>
