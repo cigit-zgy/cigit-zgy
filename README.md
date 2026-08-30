@@ -88,11 +88,11 @@ My public GitHub work focuses on making scientific modelling, manuscript prepara
 
 ### Selected Publications · First Author
 
-1. Zhao, G.-Y., Sato, N., Yin, F., Liu, H., & Fujita, M. (2026). Online sensor-guided hybrid ordinary differential equation-based model of nitrification dynamics in a full-scale municipal wastewater treatment plant. *Bioresource Technology*, 135665. **[DOI](https://doi.org/10.1016/j.biortech.2026.135665)**
+1. Zhao, G.-Y., Sato, N., Yin, F., Liu, H., & Fujita, M. (2026). Online sensor-guided hybrid ordinary differential equation-based model of nitrification dynamics in a full-scale municipal wastewater treatment plant. *Bioresource Technology*, 135665. **[https://doi.org/10.1016/j.biortech.2026.135665](https://doi.org/10.1016/j.biortech.2026.135665)**
 
-2. Zhao, G.-Y., Furumai, H., & Fujita, M. (2025). Parallel hybrid ordinary differential equation for modeling biological phosphorus removal modified for enhanced predictive performance and physical interpretability. *Journal of Environmental Management*, **380**, 124932. **[DOI](https://doi.org/10.1016/j.jenvman.2025.124932)**
+2. Zhao, G.-Y., Furumai, H., & Fujita, M. (2025). Parallel hybrid ordinary differential equation for modeling biological phosphorus removal modified for enhanced predictive performance and physical interpretability. *Journal of Environmental Management*, **380**, 124932. **[https://doi.org/10.1016/j.jenvman.2025.124932](https://doi.org/10.1016/j.jenvman.2025.124932)**
 
-3. Zhao, G.-Y., Furumai, H., & Fujita, M. (2024). Supporting data–enhanced hybrid ordinary differential equation model for phosphate dynamics in municipal wastewater treatment. *Bioresource Technology*, **409**, 131217. **[DOI](https://doi.org/10.1016/j.biortech.2024.131217)**
+3. Zhao, G.-Y., Furumai, H., & Fujita, M. (2024). Supporting data–enhanced hybrid ordinary differential equation model for phosphate dynamics in municipal wastewater treatment. *Bioresource Technology*, **409**, 131217. **[https://doi.org/10.1016/j.biortech.2024.131217](https://doi.org/10.1016/j.biortech.2024.131217)**
 
 [Full publication record on ORCID](https://orcid.org/0009-0001-7406-5638)
 
