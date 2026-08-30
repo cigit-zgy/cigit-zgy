@@ -8,37 +8,51 @@
   <a href="https://orcid.org/0009-0001-7406-5638">ORCID</a>
 </p>
 
-I am an environmental process modeller working at the intersection of **mechanistic modelling**, **hybrid dynamical systems**, and **scientific AI**, with a focus on biological wastewater treatment and reproducible scientific computing.
+<p align="center"><strong>Assistant Research Professor · Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences</strong></p>
+
+I am an environmental process modeller working at the intersection of **mechanistic modelling**, **hybrid dynamical systems**, and **scientific machine learning**, with a focus on biological wastewater treatment and reproducible scientific computing.
 
 ---
 
 ### Research Areas
 
 **01 · Biological Process Modelling**  
-Activated sludge · Anaerobic digestion · Biochemical kinetics · Dynamic simulation
+Activated sludge · Anaerobic digestion · Nitrogen and phosphorus removal · Dynamic simulation
 
 **02 · Hybrid Dynamical Systems**  
-Hybrid ODE · Neural ODE · System identification · Mechanistic–data-driven modelling
+Hybrid ODE · Neural ODE · Sensor-guided modelling · System identification
 
-**03 · Scientific AI for Modelling**  
-Agent-operable models · Interpretable learning · Scientific agents · Reproducible scientific computing
+**03 · Scientific Machine Learning**  
+Interpretable learning · Soft sensors · Mechanistic–data-driven modelling · Research software
 
 <p align="center">
   <img src="./assets/research-console.svg" alt="Scientific computing console for water process modelling" width="100%" />
 </p>
 
-### Current Research
+### Research Focus
 
-> Structured representations for mechanistic models · Hybrid mechanistic–data-driven dynamical systems · AI-assisted scientific modelling workflows
+> Full-scale wastewater treatment modelling · Hybrid mechanistic–data-driven dynamics · Online-sensor-informed modelling · Model interpretation
+
+---
+
+### Latest Research
+
+**2026 · Full-scale nitrification dynamics**  
+Online sensor-guided hybrid ODE integrating ASM3 and an artificial neural network for a 69-day full-scale municipal wastewater treatment plant operation.  
+[Paper](https://doi.org/10.1016/j.biortech.2026.135665) · *Bioresource Technology*
 
 ---
 
 ### Selected Research & Software
 
 **[`sci-manuscript-skill`](https://github.com/cigit-zgy/sci-manuscript-skill)**  
-An open-source LaTeX manuscript lifecycle workflow for reproducible initial submission, adjacent revision rounds, highlighted revised manuscripts, reviewer responses, and submission artifacts. Built-in workflows cover Elsevier, Nature, ACS, and Chinese manuscripts while keeping scientific content under author control.
+An open-source LaTeX manuscript lifecycle workflow for reproducible initial submission, adjacent revision rounds, highlighted revised manuscripts, reviewer responses, and submission artifacts. Built-in workflows cover Elsevier, Nature, ACS, and Chinese manuscripts while keeping scientific content under author control.  
+`v2.1.0` · `Python 3.11+` · `MIT`
 
 `initialize → build → revise → validate → respond → submit`
+
+**[`latex-templates`](https://github.com/cigit-zgy/latex-templates)**  
+Reusable XeLaTeX templates for academic theses and scientific reports, with independent bilingual English/Chinese layouts, deterministic typography, and reproducible rendered previews.
 
 **[`water-modeling-notes`](https://github.com/cigit-zgy/water-modeling-notes)**  
 Academic notes and computational resources for water-system modelling, scientific machine learning, and numerical methods.
@@ -59,7 +73,7 @@ Academic notes and computational resources for water-system modelling, scientifi
 
 ### Research Interests
 
-Wastewater treatment modelling · Activated Sludge Models · Anaerobic digestion · Hybrid ODE · Neural ODE · Scientific machine learning · AI-assisted scientific modelling
+Wastewater treatment modelling · Activated Sludge Models · Anaerobic digestion · Biological nutrient removal · Hybrid ODE · Neural ODE · Scientific machine learning · Interpretable machine learning
 
 ### Computational Stack
 
