@@ -35,27 +35,6 @@ Interpretable learning · Soft sensors · Mechanistic–data-driven modelling ·
 
 ---
 
-### Latest Research
-
-**2026 · Full-scale nitrification dynamics**  
-Online sensor-guided hybrid ODE integrating ASM3 and an artificial neural network for a 69-day full-scale municipal wastewater treatment plant operation.  
-[Paper](https://doi.org/10.1016/j.biortech.2026.135665) · *Bioresource Technology*
-
----
-
-### Research Timeline
-
-| Year | Research step | Public outcome |
-| --- | --- | --- |
-| **2022** | Machine-learning soft sensing | Biodegradable organic matter estimation from wastewater measurements |
-| **2024** | Supporting-data hybrid dynamics | Hybrid ODE for phosphate dynamics in municipal wastewater treatment |
-| **2025** | Parallel hybrid ODE | Enhanced prediction and physical interpretability for biological phosphorus removal |
-| **2026** | Full-scale sensor-guided Hybrid ODE | Nitrification dynamics in a municipal wastewater treatment plant |
-
-The progression reflects a continuous research line from **data-driven estimation** to **mechanistic–data-driven dynamical modelling** and **full-scale process application**.
-
----
-
 ### Selected Research & Software
 
 <img src="./assets/project-manuscript.svg" alt="sci-manuscript-skill — research software" width="100%" />
@@ -69,7 +48,7 @@ An open-source LaTeX manuscript lifecycle workflow for reproducible initial subm
 <img src="./assets/project-latex.svg" alt="latex-templates — academic tooling" width="100%" />
 
 **[`latex-templates`](https://github.com/cigit-zgy/latex-templates)**  
-Reusable XeLaTeX templates for academic theses and scientific reports, with independent bilingual English/Chinese layouts, deterministic typography, mandatory full-width tables, and reproducible rendered previews.
+Reusable XeLaTeX templates for academic theses, scientific reports, short reports, and academic CVs, with reproducible typography and rendered previews.
 
 <img src="./assets/project-notes.svg" alt="water-modeling-notes — open academic notes" width="100%" />
 
