@@ -33,7 +33,7 @@
     <text x="575" y="278" fill="#BD93F9">100%</text>
     <text x="32" y="316" fill="#50FA7B">✓ mass balance</text><text x="196" y="316" fill="#6272A4">1.02e−06</text>
     <text x="32" y="344" fill="#50FA7B">✓ integration</text><text x="196" y="344" fill="#F8F8F2">completed</text>
-    <text x="32" y="372" fill="#50FA7B">✓ model state</text><text x="196" y="372" fill="#F8F8F2">validated</text>
+    <text x="32" y="372" fill="#50FA7B">✓ diagnostics</text><text x="196" y="372" fill="#F8F8F2">passed</text>
   </g>
 
   <text x="700" y="92" fill="#D7D4C8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">state trajectories</text>
